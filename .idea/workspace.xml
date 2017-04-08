@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3380739a-7fdf-46c0-a14a-6f8cfe2c351b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/db.sqlite3" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/django tutorial.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/main_site/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/main_site/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/main_site/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/main_site/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/main_site/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/main_site/templates/main_site/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/main_site/templates/main_site/home.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/main_site/templates/main_site/includes/htmlsnippet.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/main_site/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/main_site/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/main_site/views.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/manage.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/mysite/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/mysite/settings.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/mysite/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mysite/mysite/wsgi.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mysite/main_site/templates/main_site/header.html" afterPath="$PROJECT_DIR$/mysite/main_site/templates/main_site/header.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,11 +18,41 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="manage.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="manage.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mysite/manage.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/mysite/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1269">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mysite/main_site/templates/main_site/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysite/main_site/templates/main_site/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -61,16 +71,16 @@
         <option value="$PROJECT_DIR$/mysite/mysite/settings.py" />
         <option value="$PROJECT_DIR$/mysite/main_site/urls.py" />
         <option value="$PROJECT_DIR$/mysite/main_site/views.py" />
-        <option value="$PROJECT_DIR$/mysite/main_site/templates/main_site/header.html" />
         <option value="$PROJECT_DIR$/mysite/mysite/urls.py" />
         <option value="$PROJECT_DIR$/mysite/main_site/templates/includes/htmlsnippet.html" />
         <option value="$PROJECT_DIR$/mysite/main_site/templates/main_site/home.html" />
+        <option value="$PROJECT_DIR$/mysite/main_site/templates/main_site/header.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="428" />
-    <option name="y" value="62" />
+    <option name="x" value="14" />
+    <option name="y" value="267" />
     <option name="width" value="1260" />
     <option name="height" value="733" />
   </component>
@@ -100,6 +110,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="django framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -181,6 +209,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="django framework" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="mysite" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main_site" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -189,16 +239,18 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/mysite/main_site/templates/main_site" />
-      <recent name="$PROJECT_DIR$/mysite/main_site/templates" />
-      <recent name="$PROJECT_DIR$/mysite/main_site" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/mysite/main_site/templates/includes" />
       <recent name="$PROJECT_DIR$/mysite/main_site/templates/main_site" />
       <recent name="$PROJECT_DIR$/mysite/main_site" />
       <recent name="$PROJECT_DIR$/mysite/blog" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mysite/main_site/static" />
+      <recent name="$PROJECT_DIR$/mysite/main_site/static/main_site" />
+      <recent name="$PROJECT_DIR$/mysite/main_site/templates/main_site" />
+      <recent name="$PROJECT_DIR$/mysite/main_site/templates" />
+      <recent name="$PROJECT_DIR$/mysite/main_site" />
     </key>
   </component>
   <component name="RunManager">
@@ -348,10 +400,18 @@
       <option name="presentableId" value="Default" />
       <updated>1491598307853</updated>
     </task>
+    <task id="LOCAL-00001" summary="Set up Django project and added template structure">
+      <created>1491652013483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1491652013483</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="428" y="62" width="1260" height="733" extended-state="0" />
+    <frame x="14" y="267" width="1260" height="733" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16111112" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -375,6 +435,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Set up Django project and added template structure" />
+    <option name="LAST_COMMIT_MESSAGE" value="Set up Django project and added template structure" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -400,18 +464,39 @@
     <entry file="file://$PROJECT_DIR$/mysite/blog/apps.py" />
     <entry file="file://$PROJECT_DIR$/mysite/blog/urls.py" />
     <entry file="file://$PROJECT_DIR$/mysite/blog/views.py" />
-    <entry file="file://$PROJECT_DIR$/mysite/mysite/settings.py" />
     <entry file="file://$PROJECT_DIR$/mysite/mysite/wsgi.py" />
     <entry file="file://$PROJECT_DIR$/mysite/main_site/urls.py" />
     <entry file="file://$PROJECT_DIR$/mysite/mysite/urls.py" />
     <entry file="file://$PROJECT_DIR$/mysite/main_site/views.py" />
-    <entry file="file://$PROJECT_DIR$/mysite/main_site/templates/main_site/header.html" />
     <entry file="file://$PROJECT_DIR$/mysite/main_site/templates/main_site/includes/htmlsnippet.html" />
-    <entry file="file://$PROJECT_DIR$/mysite/main_site/templates/main_site/home.html" />
     <entry file="file://$PROJECT_DIR$/mysite/manage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/mysite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1269">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/main_site/templates/main_site/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysite/main_site/templates/main_site/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
           <folding />
         </state>
       </provider>
